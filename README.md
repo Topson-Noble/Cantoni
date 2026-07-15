@@ -1,5 +1,7 @@
 # Cantoni
 
+<video src="Media/cantoni-bubbles.mp4" controls width="900"></video>
+
 A casual arcade game developed in **Unreal Engine 5.5.4** that explores gameplay programming, event driven systems, persistent data management, and Blueprint architecture.
 
 The primary goal of this project was to design and implement a complete gameplay loop while building a reusable leaderboard system capable of storing player scores, maintaining rankings, and persisting data across multiple play sessions.
