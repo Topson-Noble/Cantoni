@@ -136,6 +136,8 @@ At the end of every game:
 
 This ensures that only the ten highest scoring players remain stored between gameplay sessions.
 
+![Leaderboard](Media/Cantoni_leaderboard.png)
+
 ---
 
 ## Ranking Algorithm
@@ -229,6 +231,7 @@ Planned improvements include:
 
 These additions would allow the existing leaderboard architecture to scale naturally while increasing long term player engagement.
 
+![Icon](Media/cantoni-cover-image.png)
 ---
 
 # Repository Structure
