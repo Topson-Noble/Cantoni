@@ -1,6 +1,6 @@
 # Cantoni
 
-<video src="Media/cantoni-bubbles.mp4" controls width="900"></video>
+![Cantoni Gameplay](Media/cantoni-bubbles.gif)
 
 A casual arcade game developed in **Unreal Engine 5.5.4** that explores gameplay programming, event driven systems, persistent data management, and Blueprint architecture.
 
