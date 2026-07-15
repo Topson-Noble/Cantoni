@@ -1,6 +1,6 @@
 # Cantoni
 
-<video src="Media/cantoni-bubbles.mp4" controls width="900"></video>
+![Cantoni Gameplay](Media/cantoni-popping.gif)
 
 A casual arcade game developed in **Unreal Engine 5.5.4** that explores gameplay programming, event driven systems, persistent data management, and Blueprint architecture.
 
@@ -136,6 +136,8 @@ At the end of every game:
 
 This ensures that only the ten highest scoring players remain stored between gameplay sessions.
 
+![Leaderboard](Media/Cantoni_leaderboard.png)
+
 ---
 
 ## Ranking Algorithm
@@ -229,6 +231,7 @@ Planned improvements include:
 
 These additions would allow the existing leaderboard architecture to scale naturally while increasing long term player engagement.
 
+![Icon](Media/cantoni-cover-image.png)
 ---
 
 # Repository Structure
